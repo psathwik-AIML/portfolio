@@ -204,13 +204,13 @@ section{
 
 @keyframes words {
     0%, 33%{
-        content: "Developer";
+        content: "Final year CSE student";
     }
     34%, 66%{
-        content: "Designer";
+        content: "AI & ML Enthusiast";
     }
     67%, 100%{
-        content: "Youtuber";
+        content: "Aspiring Full Stack Developer";
     }
 }
 
